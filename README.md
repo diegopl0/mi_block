@@ -16,12 +16,12 @@ Add files via upload
 }
 
         h1 {
-            color: rgb(96, 235, 15);
+            color: rgb(247, 90, 187);
         }
-        p{color:rgb(15, 110, 235)
+        p{color:rgb(0, 0, 0)
         }
-    h4{color:rgb(241, 11, 88)}    
-        p{color:rgb(158, 228, 47)
+    h4{color:rgb(11, 233, 241)}    
+        p{color:rgb(233, 51, 193)
         }
     </style>
 </head>
