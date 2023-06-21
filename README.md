@@ -1,3 +1,10 @@
+
+Older
+Newer
+diegopl0
+yesterday
+
+Add files via upload
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +12,7 @@
     <style>
        body {
   background-image: url(aimep3.jpg);
-  background-size: 40% auto;
+  background-size: 25% auto;
 }
 
         h1 {
@@ -23,23 +30,35 @@
         <h1>welcome to my web sitie </h1>
     
     <section>
-        <h1>cristopher es homosexual .</h1>
+        <p>Hi, I'm Diego, the chiken .</p>
     </section>
     
     <section>
-        <h4>cristopher se besa con perros</h4>
-        
-             
-    #li><img src="Captura de pantalla 2023-06-20 170023.png" alt=""></li>
-   
-  
-        </ul>
+now
+
+Update PAGINA EP.HTML
+        <h4>nyaaaaaaa
+</h4>
+ </section>
+ <section>
+<h1>cristopher es homosexual </h1>
+<h4>lamentablemente fue confirmado que cristopher daniel es homosexual  </h4>
+<p>se confirma la alarmante noticia despues de que se encontrara a cristopher teniendo una Orgía con varios hombres y un perro :(</p>
+yesterday
+
+Add files via upload
     </section>
     <p> waza insane people this is my website the most insane of all
     </p>
     <section>
         <h2></h2>
-        <a href="">Facebook Diego PL</a>
+now
+
+Update PAGINA EP.HTML
+        <a href="https://www.facebook.com/diego.pl.771282">Facebook Diego PL</a>
+yesterday
+
+Add files via upload
     </section>
    
       </body>
