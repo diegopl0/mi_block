@@ -23,11 +23,11 @@
         <h1>welcome to my web sitie </h1>
     
     <section>
-        <p>Hi, I'm Diego, the chiken .</p>
+        <h1>cristopher es homosexual .</h1>
     </section>
     
     <section>
-        <h4>cristopher es gey</h4>
+        <h4>cristopher se besa con perros</h4>
         
              
     #li><img src="Captura de pantalla 2023-06-20 170023.png" alt=""></li>
